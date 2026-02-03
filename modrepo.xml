@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ModRepo />
+<ModRepo>
+  <ModVersion ModID="aproposmath-stationeers-ic10editor" Version="0.8.5" Name="IC10 Editor" Author="aproposmath" Url="https://github.com/aproposmath/modrepo-builder-action-test/releases/download/v0.1/ic10editor.zip" Digest="c2c900d0064a86f2fd2dc24582df97a4933d21d941884134027f32c42081f84f">
+    <Branch Value="" />
+  </ModVersion>
+</ModRepo>
