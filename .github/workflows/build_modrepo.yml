@@ -10,12 +10,6 @@ permissions:
 jobs:
   update-modrepo:
     runs-on: ubuntu-latest
-
     steps:
       - name: Run modrepo builder action
         uses: aproposmath/modrepo-builder-action@v1
-        with:
-          commit-message: "Update modrepo.xml for ${RELEASE_TAG}"
-        env:
-          GH_TOKEN: ${{ github.token }}
-          RELEASE_TAG: ${{ env.RELEASE_TAG }}
