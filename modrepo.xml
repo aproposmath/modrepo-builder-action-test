@@ -9,13 +9,5 @@
       Url="https://github.com/aproposmath/modrepo-builder-action-test/releases/download/v0.2/IC10Editor-v0.8.8.zip"
       Digest="sha256:8d4f441269583fdeed267366338edcb2c468c492639dec650ca1638e8476c84b"
   />
-  <ModVersion
-      ModID="com.github.aproposmath.StationeersIC10Editor"
-      Version="0.8.8"
-      Name="IC10 Editor"
-      Author="aproposmath"
-      Url="https://github.com/aproposmath/modrepo-builder-action-test/releases/download/v0.2/IC10Editor-v0.8.8.zip"
-      Digest="sha256:8d4f441269583fdeed267366338edcb2c468c492639dec650ca1638e8476c84b"
-  />
 </ModRepo
 >
