@@ -2,12 +2,28 @@
 <ModRepo
   >
   <ModVersion
+      ModID="com.github.aproposmath.stationeers-pytrapic"
+      Version="0.2.3.36-dev"
+      Name="PyTrapIC - Python to IC10 Transpiler"
+      Author="aproposmath"
+      Url="https://github.com/aproposmath/stationeers-pytrapic/releases/download/main/PyTrapIC-main.zip"
+      Digest="sha256:583541d927f90d65dc9221a3df9a026a402f072f3faccc33ed3acbc39ce1925b"
+  />
+  <ModVersion
       ModID="com.github.aproposmath.StationeersIC10Editor"
       Version="0.8.8"
       Name="IC10 Editor"
       Author="aproposmath"
       Url="https://github.com/aproposmath/modrepo-builder-action-test/releases/download/v0.2/IC10Editor-v0.8.8.zip"
       Digest="sha256:8d4f441269583fdeed267366338edcb2c468c492639dec650ca1638e8476c84b"
+  />
+  <ModVersion
+      ModID="com.github.aproposmath.StationeersIC10Editor"
+      Version="0.8.8"
+      Name="IC10 Editor"
+      Author="aproposmath"
+      Url="https://github.com/aproposmath/StationeersIC10Editor/releases/download/main/IC10Editor-main.zip"
+      Digest="sha256:9655edb873815f4cb6d0e442e6b3a6c3ea65c3766311edeb24088ed858a43de8"
   />
 </ModRepo
 >
