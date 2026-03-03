@@ -1,0 +1,20 @@
+{
+    "sha256:8d4f441269583fdeed267366338edcb2c468c492639dec650ca1638e8476c84b": {
+        "author": "aproposmath",
+        "branch": [],
+        "depends_on": [],
+        "digest": "sha256:8d4f441269583fdeed267366338edcb2c468c492639dec650ca1638e8476c84b",
+        "id": "com.github.aproposmath.StationeersIC10Editor",
+        "name": "IC10 Editor",
+        "tag": [
+            "IC10",
+            "Editor",
+            "Code",
+            "BepInEx",
+            "VIM",
+            "StationeersLaunchPad"
+        ],
+        "url": "https://github.com/aproposmath/modrepo-builder-action-test/releases/download/v0.2/IC10Editor-v0.8.8.zip",
+        "version": "0.8.8"
+    }
+}
