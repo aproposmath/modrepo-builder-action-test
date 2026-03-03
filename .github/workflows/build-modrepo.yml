@@ -1,11 +1,10 @@
-# GitHub Workflow
-# .github/workflows/build-modrepo.yml
-name: Build modrepo
+name: Build org modrepo
 
 on:
+  # run once per day or manually
   workflow_dispatch:
-  release:
-    types: [published, edited]
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   build-modrepo:
@@ -13,5 +12,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Build and publish modrepo.xml
+      - name: Build and publish modrepo.xml from multiple repos
         uses: StationeersLaunchPad/modrepo-builder-action@v1
+
+        with:
+          debug-output: "false"
+          commit-message: "Update modrepo.xml (automated)"
+          mod-repos: |
+            aproposmath/stationeers-pytrapic
+            aproposmath/StationeersIC10Editor
