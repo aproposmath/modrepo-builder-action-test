@@ -3,30 +3,8 @@
     "sha256:1c867d9d4854714c9298fd83a9fbd70148abb54327a49827c7aebfc2a1a6c05b": false,
     "sha256:2824ef65dc4286c09f5949b0e00e978c70bb04af60421b08f6975d8df9efb8a9": false,
     "sha256:3a566aa8fd1fb7b64bb1aa51d084e08bb9f9fcae357b3f2997aebbf5fa95611e": false,
-    "sha256:465f3a3040a86a3fc91cdf5cf7711c06156720634a6dabe62b78eabfea62b099": false,
     "sha256:50db84fa4f8e0fff84f7d69ad593a4fc93008df51cc6087318783f57b7e13218": false,
-    "sha256:7c813929f577988049893b9d1495e72156d7bd2ce8053edb2b680d430bd927a3": {
-        "author": "aproposmath",
-        "branch": [],
-        "depends_on": [
-            "3592775931"
-        ],
-        "digest": "sha256:7c813929f577988049893b9d1495e72156d7bd2ce8053edb2b680d430bd927a3",
-        "id": "com.github.aproposmath.stationeers-pytrapic",
-        "name": "PyTrapIC - Python to IC10 Transpiler",
-        "tag": [
-            "IC10",
-            "Python",
-            "Editor",
-            "Code",
-            "BepInEx",
-            "Compiler",
-            "Transpiler",
-            "StationeersLaunchPad"
-        ],
-        "url": "https://github.com/aproposmath/stationeers-pytrapic/releases/download/main/PyTrapIC-main.zip",
-        "version": "dev"
-    },
+    "sha256:7d69ee4fd53ff78e88fa2bc465946e4d907d32cbd0e6b4e39fefdc0326b2e0cd": false,
     "sha256:830016920cfa6d80b8f4573b3d5c0ee35d835f13012469e9c4926d7f5f935e43": false,
     "sha256:8d4f441269583fdeed267366338edcb2c468c492639dec650ca1638e8476c84b": {
         "author": "aproposmath",
@@ -63,6 +41,28 @@
         ],
         "url": "https://github.com/aproposmath/StationeersIC10Editor/releases/download/main/IC10Editor-main.zip",
         "version": "0.8.8"
+    },
+    "sha256:a8b7c26a72143ac8fb42aaad4a1b4962ea9955e7b0535b43551ad5eb258fd60b": {
+        "author": "aproposmath",
+        "branch": [],
+        "depends_on": [
+            "3592775931"
+        ],
+        "digest": "sha256:a8b7c26a72143ac8fb42aaad4a1b4962ea9955e7b0535b43551ad5eb258fd60b",
+        "id": "com.github.aproposmath.stationeers-pytrapic",
+        "name": "PyTrapIC - Python to IC10 Transpiler",
+        "tag": [
+            "IC10",
+            "Python",
+            "Editor",
+            "Code",
+            "BepInEx",
+            "Compiler",
+            "Transpiler",
+            "StationeersLaunchPad"
+        ],
+        "url": "https://github.com/aproposmath/stationeers-pytrapic/releases/download/main/PyTrapIC-main.zip",
+        "version": "dev"
     },
     "sha256:c6f22565feeb1b165d0e872be83af9cc522aa6d86ab2ca9475b1bce8626a2108": false,
     "sha256:cb33f768c920ac7777bf35299e64164538d6f2834da4ba9056900c95e7c729e8": false,
