@@ -6,16 +6,40 @@
       Version="dev"
       Name="PyTrapIC - Python to IC10 Transpiler"
       Author="aproposmath"
+      Url="https://github.com/aproposmath/stationeers-pytrapic/releases/download/v0.3.1/PyTrapIC-v0.3.1.zip"
+      Digest="sha256:cb8d5340674ff400f6ae5b1110018c3163b7673bda09a34a13f72cd8c9fb3c44"
+  />
+  <ModVersion
+      ModID="com.github.aproposmath.stationeers-pytrapic"
+      Version="dev"
+      Name="PyTrapIC - Python to IC10 Transpiler"
+      Author="aproposmath"
+      Url="https://github.com/aproposmath/stationeers-pytrapic/releases/download/v0.3.0/PyTrapIC-v0.3.0.zip"
+      Digest="sha256:bd8742bda1a707608fc46f93385822a94e5e4256608850436d94bd9d43acbec8"
+  />
+  <ModVersion
+      ModID="com.github.aproposmath.stationeers-pytrapic"
+      Version="dev"
+      Name="PyTrapIC - Python to IC10 Transpiler"
+      Author="aproposmath"
       Url="https://github.com/aproposmath/stationeers-pytrapic/releases/download/main/PyTrapIC-main.zip"
-      Digest="sha256:ebff1668f09899e58c5eb041c2532c50ebf7da4872cc0e9d88152ad9b11c9654"
+      Digest="sha256:be4dc38a43201a62c9ba31a12f0b57c2213307cc8952f09baec51fa27a7b6812"
   />
   <ModVersion
       ModID="com.github.aproposmath.StationeersIC10Editor"
-      Version="0.8.8.5-dev"
+      Version="0.8.9"
+      Name="IC10 Editor"
+      Author="aproposmath"
+      Url="https://github.com/aproposmath/StationeersIC10Editor/releases/download/v0.8.9/IC10Editor-v0.8.9.zip"
+      Digest="sha256:3dce6c1bb4cfd6aca7aa2b39019a9adc5d60074dd5325a3ee64d3c07af0e79f0"
+  />
+  <ModVersion
+      ModID="com.github.aproposmath.StationeersIC10Editor"
+      Version="0.8.8.6-dev"
       Name="IC10 Editor"
       Author="aproposmath"
       Url="https://github.com/aproposmath/StationeersIC10Editor/releases/download/main/IC10Editor-main.zip"
-      Digest="sha256:116990ea20613cc0de4cca70effdf7a12983857d9f5ff56960508fe9d4e9b931"
+      Digest="sha256:9a665e4db5023e9de0369b6f55f3f820892f7afc107bdc7a389f9b9832a2a6c7"
   />
   <ModVersion
       ModID="com.github.aproposmath.StationeersIC10Editor"
