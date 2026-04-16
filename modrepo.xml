@@ -31,15 +31,23 @@
       Name="PyTrapIC - Python to IC10 Transpiler"
       Author="aproposmath"
       Url="https://github.com/aproposmath/stationeers-pytrapic/releases/download/main/PyTrapIC-main.zip"
-      Digest="sha256:6d15c7e411bf0fd62b029cbaaa2cac7651cc5b6e7406966d881bad8d45ab824a"
+      Digest="sha256:919abae5f7b010ebdee83a0575f2dfe4afcadf689511e0ac77f31cc239d59a91"
   />
   <ModVersion
       ModID="com.github.aproposmath.StationeersIC10Editor"
-      Version="0.9.3"
+      Version="0.9.4"
+      Name="IC10 Editor"
+      Author="aproposmath"
+      Url="https://github.com/aproposmath/StationeersIC10Editor/releases/download/v0.9.4/IC10Editor-v0.9.4.zip"
+      Digest="sha256:1fdf6a5e2191ae3f06be298323036419bab5145dcd9ebb722992b2aacdc9ecf7"
+  />
+  <ModVersion
+      ModID="com.github.aproposmath.StationeersIC10Editor"
+      Version="0.9.3.1-dev"
       Name="IC10 Editor"
       Author="aproposmath"
       Url="https://github.com/aproposmath/StationeersIC10Editor/releases/download/main/IC10Editor-main.zip"
-      Digest="sha256:b68796dd2ac6e5e1f74aca6e67594c55d66bb1292e52b3b788fb9c4a76bcb47b"
+      Digest="sha256:90eaa1dc6f0a17a42c20754ba966b551eaaa713ef223632fab29a714b22bb9bb"
     >
     <Branch
         Value="main"
