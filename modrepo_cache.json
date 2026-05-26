@@ -22,28 +22,6 @@
     },
     "sha256:2824ef65dc4286c09f5949b0e00e978c70bb04af60421b08f6975d8df9efb8a9": false,
     "sha256:324a31040ffa9a9a287af4fc842d251dd210ba1a8e99be4c08e9ec1928690d85": false,
-    "sha256:34734ab51fb4365542701b7fd611b6c1208e894d53c1aaa1270f7633cc98e191": {
-        "author": "aproposmath",
-        "branch": [],
-        "depends_on": [
-            "3592775931"
-        ],
-        "digest": "sha256:34734ab51fb4365542701b7fd611b6c1208e894d53c1aaa1270f7633cc98e191",
-        "id": "com.github.aproposmath.stationeers-pytrapic",
-        "name": "PyTrapIC - Python to IC10 Transpiler",
-        "tag": [
-            "IC10",
-            "Python",
-            "Editor",
-            "Code",
-            "BepInEx",
-            "Compiler",
-            "Transpiler",
-            "StationeersLaunchPad"
-        ],
-        "url": "https://github.com/aproposmath/stationeers-pytrapic/releases/download/main/PyTrapIC-main.zip",
-        "version": "0.3.4"
-    },
     "sha256:349bec1a1d79819af70366f8905868f8d53ce7c17db7ccaf8a6dd1d4b3e2eda4": {
         "author": "aproposmath",
         "branch": [],
@@ -276,6 +254,28 @@
         ],
         "url": "https://github.com/aproposmath/stationeers-pytrapic/releases/download/v0.3.0/PyTrapIC-v0.3.0.zip",
         "version": "dev"
+    },
+    "sha256:bf6875e1c2ad27dba4918a4ba9d20743c2687534805529341daaa03cf68773e7": {
+        "author": "aproposmath",
+        "branch": [],
+        "depends_on": [
+            "3592775931"
+        ],
+        "digest": "sha256:bf6875e1c2ad27dba4918a4ba9d20743c2687534805529341daaa03cf68773e7",
+        "id": "com.github.aproposmath.stationeers-pytrapic",
+        "name": "PyTrapIC - Python to IC10 Transpiler",
+        "tag": [
+            "IC10",
+            "Python",
+            "Editor",
+            "Code",
+            "BepInEx",
+            "Compiler",
+            "Transpiler",
+            "StationeersLaunchPad"
+        ],
+        "url": "https://github.com/aproposmath/stationeers-pytrapic/releases/download/main/PyTrapIC-main.zip",
+        "version": "0.3.4"
     },
     "sha256:c1f11cf73d1bd69dc1c040f10825c36eea2f03b1b0c4d4842d700f8238acc319": {
         "author": "aproposmath",
