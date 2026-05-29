@@ -27,19 +27,27 @@
   />
   <ModVersion
       ModID="com.github.aproposmath.stationeers-pytrapic"
-      Version="0.3.4"
+      Version="0.4.0"
       Name="PyTrapIC - Python to IC10 Transpiler"
       Author="aproposmath"
-      Url="https://github.com/aproposmath/stationeers-pytrapic/releases/download/v0.3.4/PyTrapIC-v0.3.4.zip"
-      Digest="sha256:d9322aed93720762d919cb9504517bc5006774f01728d131169bb1513c19b813"
+      Url="https://github.com/aproposmath/stationeers-pytrapic/releases/download/v0.4.0/PyTrapIC-v0.4.0.zip"
+      Digest="sha256:cab62e187f5a2cf8ea7e690abf65bf54a9547e7c5c4b717458db4119a1111e4a"
+  />
+  <ModVersion
+      ModID="com.github.aproposmath.stationeers-pytrapic"
+      Version="0.4.0"
+      Name="PyTrapIC - Python to IC10 Transpiler"
+      Author="aproposmath"
+      Url="https://github.com/aproposmath/stationeers-pytrapic/releases/download/main/PyTrapIC-main.zip"
+      Digest="sha256:eaed606d83ee9f273d3d52846d7b4d411fc805b23ebbfb3b06bf1a213af09336"
   />
   <ModVersion
       ModID="com.github.aproposmath.stationeers-pytrapic"
       Version="0.3.4"
       Name="PyTrapIC - Python to IC10 Transpiler"
       Author="aproposmath"
-      Url="https://github.com/aproposmath/stationeers-pytrapic/releases/download/main/PyTrapIC-main.zip"
-      Digest="sha256:bf6875e1c2ad27dba4918a4ba9d20743c2687534805529341daaa03cf68773e7"
+      Url="https://github.com/aproposmath/stationeers-pytrapic/releases/download/v0.3.4/PyTrapIC-v0.3.4.zip"
+      Digest="sha256:d9322aed93720762d919cb9504517bc5006774f01728d131169bb1513c19b813"
   />
   <ModVersion
       ModID="com.github.aproposmath.stationeers-pytrapic"
@@ -51,11 +59,19 @@
   />
   <ModVersion
       ModID="com.github.aproposmath.StationeersIC10Editor"
-      Version="0.9.8.3-dev"
+      Version="0.9.9"
+      Name="IC10 Editor"
+      Author="aproposmath"
+      Url="https://github.com/aproposmath/StationeersIC10Editor/releases/download/v0.9.9/IC10Editor-v0.9.9.zip"
+      Digest="sha256:099e9e69f9f3f1659bd5c78958a7a4103ec6665352bc9d08123bdc9ceab0783d"
+  />
+  <ModVersion
+      ModID="com.github.aproposmath.StationeersIC10Editor"
+      Version="0.9.8.4-dev"
       Name="IC10 Editor"
       Author="aproposmath"
       Url="https://github.com/aproposmath/StationeersIC10Editor/releases/download/main/IC10Editor-main.zip"
-      Digest="sha256:83f2972c02d94718cbcd021219c77094260c1ab6be0d831be49aa57ac8dd4266"
+      Digest="sha256:607fd6129e118c9afc6aa457a314c4bd980ee831337bbe51b7fbd733748af5e1"
     >
     <Branch
         Value="main"
