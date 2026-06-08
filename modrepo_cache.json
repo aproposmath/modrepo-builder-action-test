@@ -97,26 +97,6 @@
         "url": "https://github.com/aproposmath/StationeersIC10Editor/releases/download/v0.8.9/IC10Editor-v0.8.9.zip",
         "version": "0.8.9"
     },
-    "sha256:418cd68371febe4a3d55101e2d45e9c14fcf8a8880bd2577f4e45d56a7d790a1": {
-        "author": "aproposmath",
-        "branch": [
-            "main"
-        ],
-        "depends_on": [],
-        "digest": "sha256:418cd68371febe4a3d55101e2d45e9c14fcf8a8880bd2577f4e45d56a7d790a1",
-        "id": "com.github.aproposmath.StationeersIC10Editor",
-        "name": "IC10 Editor",
-        "tag": [
-            "IC10",
-            "Editor",
-            "Code",
-            "BepInEx",
-            "VIM",
-            "StationeersLaunchPad"
-        ],
-        "url": "https://github.com/aproposmath/StationeersIC10Editor/releases/download/main/IC10Editor-main.zip",
-        "version": "0.9.9.7-dev"
-    },
     "sha256:45b03eb55fab3c08301e6aee9e5086b0f40b6f90645f661f8dbf70e60fe3cb76": false,
     "sha256:4ccde4cd2a96d276952e19c59121f69dea8b90c9d67d13c4310faedef8afedf4": {
         "author": "aproposmath",
@@ -399,6 +379,26 @@
         ],
         "url": "https://github.com/aproposmath/stationeers-pytrapic/releases/download/v0.3.4/PyTrapIC-v0.3.4.zip",
         "version": "0.3.4"
+    },
+    "sha256:e8672195c549fe8377ea63b926fbee5d6f27cc25b89d5aa765fd5b557949950c": {
+        "author": "aproposmath",
+        "branch": [
+            "main"
+        ],
+        "depends_on": [],
+        "digest": "sha256:e8672195c549fe8377ea63b926fbee5d6f27cc25b89d5aa765fd5b557949950c",
+        "id": "com.github.aproposmath.StationeersIC10Editor",
+        "name": "IC10 Editor",
+        "tag": [
+            "IC10",
+            "Editor",
+            "Code",
+            "BepInEx",
+            "VIM",
+            "StationeersLaunchPad"
+        ],
+        "url": "https://github.com/aproposmath/StationeersIC10Editor/releases/download/main/IC10Editor-main.zip",
+        "version": "0.9.9.14-dev"
     },
     "sha256:eaed606d83ee9f273d3d52846d7b4d411fc805b23ebbfb3b06bf1a213af09336": {
         "author": "aproposmath",
