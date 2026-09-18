@@ -157,13 +157,13 @@
         "version": "0.9.5"
     },
     "sha256:50db84fa4f8e0fff84f7d69ad593a4fc93008df51cc6087318783f57b7e13218": false,
-    "sha256:63536bbd28c7e506c2c95d0d06d139ec5aa596aca69ade62f99355be7c491d92": {
+    "sha256:5a65e275165c56eb0b74c16f0aa59f984d696c39db709663901743033c79e9fe": {
         "author": "aproposmath",
         "branch": [
             "main"
         ],
         "depends_on": [],
-        "digest": "sha256:63536bbd28c7e506c2c95d0d06d139ec5aa596aca69ade62f99355be7c491d92",
+        "digest": "sha256:5a65e275165c56eb0b74c16f0aa59f984d696c39db709663901743033c79e9fe",
         "id": "com.github.aproposmath.StationeersIC10Editor",
         "name": "IC10 Editor",
         "tag": [
@@ -175,7 +175,7 @@
             "StationeersLaunchPad"
         ],
         "url": "https://github.com/aproposmath/StationeersIC10Editor/releases/download/main/IC10Editor-main.zip",
-        "version": "0.9.100.7-dev"
+        "version": "0.9.100.8-dev"
     },
     "sha256:6e2e3f08314577f9351c16db52cd56c6c2bf0727ab8b9f67507738a9a87b665f": {
         "author": "aproposmath",
@@ -216,6 +216,24 @@
         ],
         "url": "https://github.com/aproposmath/stationeers-pytrapic/releases/download/v0.4.1/PyTrapIC-v0.4.1.zip",
         "version": "0.4.1"
+    },
+    "sha256:7d1eec383cf93e078aac8849ad1697722b6a0f097c25a70f7dd6b13ebbe0bc7d": {
+        "author": "aproposmath",
+        "branch": [],
+        "depends_on": [],
+        "digest": "sha256:7d1eec383cf93e078aac8849ad1697722b6a0f097c25a70f7dd6b13ebbe0bc7d",
+        "id": "com.github.aproposmath.StationeersIC10Editor",
+        "name": "IC10 Editor",
+        "tag": [
+            "IC10",
+            "Editor",
+            "Code",
+            "BepInEx",
+            "VIM",
+            "StationeersLaunchPad"
+        ],
+        "url": "https://github.com/aproposmath/StationeersIC10Editor/releases/download/v0.9.101/IC10Editor-v0.9.101.zip",
+        "version": "0.9.101"
     },
     "sha256:830016920cfa6d80b8f4573b3d5c0ee35d835f13012469e9c4926d7f5f935e43": false,
     "sha256:857c6d7f627ebfba99c5bf1de4e86578e244704d9d58c115639cbe0668a7338c": {
