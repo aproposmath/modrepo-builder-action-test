@@ -308,26 +308,6 @@
         "url": "https://github.com/aproposmath/modrepo-builder-action-test/releases/download/v0.2/IC10Editor-v0.8.8.zip",
         "version": "0.8.8"
     },
-    "sha256:96d60b67847873048f9eedd4da30a797e328df0662a3481192c9a893affc5bba": {
-        "author": "aproposmath",
-        "branch": [
-            "main"
-        ],
-        "depends_on": [],
-        "digest": "sha256:96d60b67847873048f9eedd4da30a797e328df0662a3481192c9a893affc5bba",
-        "id": "com.github.aproposmath.StationeersIC10Editor",
-        "name": "IC10 Editor",
-        "tag": [
-            "IC10",
-            "Editor",
-            "Code",
-            "BepInEx",
-            "VIM",
-            "StationeersLaunchPad"
-        ],
-        "url": "https://github.com/aproposmath/StationeersIC10Editor/releases/download/main/IC10Editor-main.zip",
-        "version": "1.0.0.1-dev"
-    },
     "sha256:a1b45573b708620e3e940dd76e1416ff9bf775fae5ed7de2e516894f1ac78839": {
         "author": "aproposmath",
         "branch": [],
@@ -430,7 +410,45 @@
         "url": "https://github.com/aproposmath/stationeers-pytrapic/releases/download/v0.3.0/PyTrapIC-v0.3.0.zip",
         "version": "dev"
     },
+    "sha256:c618c885d6a91af3b8434ed3615a1ec24e473bc02909f84a97ec07dc8e2ba541": {
+        "author": "aproposmath",
+        "branch": [
+            "main"
+        ],
+        "depends_on": [],
+        "digest": "sha256:c618c885d6a91af3b8434ed3615a1ec24e473bc02909f84a97ec07dc8e2ba541",
+        "id": "com.github.aproposmath.StationeersIC10Editor",
+        "name": "IC10 Editor",
+        "tag": [
+            "IC10",
+            "Editor",
+            "Code",
+            "BepInEx",
+            "VIM",
+            "StationeersLaunchPad"
+        ],
+        "url": "https://github.com/aproposmath/StationeersIC10Editor/releases/download/main/IC10Editor-main.zip",
+        "version": "1.0.2"
+    },
     "sha256:c6f22565feeb1b165d0e872be83af9cc522aa6d86ab2ca9475b1bce8626a2108": false,
+    "sha256:c91354ecdee2bdd7c874d7cf03b6133a0aae98818a1e2a9ebbb103f787138dd6": {
+        "author": "aproposmath",
+        "branch": [],
+        "depends_on": [],
+        "digest": "sha256:c91354ecdee2bdd7c874d7cf03b6133a0aae98818a1e2a9ebbb103f787138dd6",
+        "id": "com.github.aproposmath.StationeersIC10Editor",
+        "name": "IC10 Editor",
+        "tag": [
+            "IC10",
+            "Editor",
+            "Code",
+            "BepInEx",
+            "VIM",
+            "StationeersLaunchPad"
+        ],
+        "url": "https://github.com/aproposmath/StationeersIC10Editor/releases/download/v1.0.2/IC10Editor-v1.0.2.zip",
+        "version": "1.0.2"
+    },
     "sha256:cab62e187f5a2cf8ea7e690abf65bf54a9547e7c5c4b717458db4119a1111e4a": {
         "author": "aproposmath",
         "branch": [],
